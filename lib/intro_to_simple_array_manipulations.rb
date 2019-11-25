@@ -1,5 +1,5 @@
-def using_push(array, element)
-  array.push(element)
+def using_push(bob, element)
+  bob.push(element)
 end
 
 def using_unshift(array, element)

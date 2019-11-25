@@ -1,4 +1,4 @@
-def using_push(bob, element)
+def using_push(bobs, element)
   bob.push(element)
 end
 
